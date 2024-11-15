@@ -17,7 +17,7 @@ Sou estudante de Engenharia de Software, apaixonado por tecnologia e programaç�
 ## 🛠️ Projetos
 
 - **Em desenvolvimento**: *Portifólio* - Trata-se de uma aplicação web e mobile desenvolvida com flutter e dart que agrupará todos os meus projetos futuros.
-- **Em desenvolvimento**: *Projeto Anonymous* - Trata-se de um bot em python desenvolvido para atuar na plataforma de interessão conhecida como Discord.
+- **Em desenvolvimento**: *Projeto Bender* - Trata-se de um bot desenvolvido em Python para atuar na plataforma de interação conhecida como Discord.
 
 <!-- Adicione mais projetos conforme necessário -->
 
