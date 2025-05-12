@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Matheus!
 
-Sou estudante de Engenharia de Software, apaixonado por tecnologia e programação. Atualmente, estou focado em **Flutter**, **Python** e **bancos de dados**. Meu objetivo é desenvolver aplicações inovadoras e aprimorar minhas habilidades em desenvolvimento mobile e backend
+Sou estudante de Engenharia de Software, apaixonado por tecnologia e programação. Atualmente, estou focado em, **Automações com Python**, **bancos de dados** e **Analise de Dados**. Meu objetivo é desenvolver aplicações inovadoras e aprimorar minhas habilidades e backend e dados
 
 <!-- Adicione mais projetos conforme necessário -->
 
